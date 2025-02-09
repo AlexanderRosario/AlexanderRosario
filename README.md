@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Bienvenido a mi GitHub
 
-<!--
-**AlexanderRosario/AlexanderRosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un desarrollador apasionado por la tecnología y el software. Tengo experiencia en **C#, Python y Kotlin (Jetpack Compose)**. Me gusta trabajar con arquitecturas limpias, buenas prácticas y explorar nuevas tecnologías.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Habilidades
+- **Desarrollo Backend**: C#, Python.
+- **Desarrollo Móvil**: Kotlin, Jetpack Compose, Hilt.
+- **Visión por Computadora**: Implementaciones con **YOLO** para detección de objetos y personas.
+- **Manipulación de Datos**: Procesamiento y transformación de datos para diversas aplicaciones.
+- **Arquitecturas de Software**: MVVM, patrones de diseño y buenas prácticas de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+
+### 📱 [Marketplace App](#)
+Aplicación móvil en desarrollo con **Jetpack Compose**, basada en la arquitectura **MVVM**, con inyección de dependencias **Hilt** y buenas prácticas.
+
+### 🎯 [YOLO Person Detection](#)
+Proyecto en el que exploro la detección de personas en un espacio utilizando **YOLO** para visión por computadora.
+
+### 🌍 [Plataforma para Gamers](#)
+Una idea en desarrollo para conectar jugadores con intereses similares y facilitar la búsqueda de compañeros de juego.
+
+## 📫 Contacto
+Si te interesa colaborar o intercambiar ideas, no dudes en contactarme. ¡Siempre estoy abierto a aprender y construir cosas nuevas! 🚀
