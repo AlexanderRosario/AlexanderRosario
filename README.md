@@ -14,11 +14,6 @@
 ### 📱 [Marketplace App](#)
 Aplicación móvil en desarrollo con **Jetpack Compose**, basada en la arquitectura **MVVM**, con inyección de dependencias **Hilt** y buenas prácticas.
 
-### 🎯 [YOLO Person Detection](#)
-Proyecto en el que exploro la detección de personas en un espacio utilizando **YOLO** para visión por computadora.
-
-### 🌍 [Plataforma para Gamers](#)
-Una idea en desarrollo para conectar jugadores con intereses similares y facilitar la búsqueda de compañeros de juego.
 
 ## 📫 Contacto
 Si te interesa colaborar o intercambiar ideas, no dudes en contactarme. ¡Siempre estoy abierto a aprender y construir cosas nuevas! 🚀
