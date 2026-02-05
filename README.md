@@ -29,10 +29,11 @@ Soy un desarrollador enfocado en construir soluciones robustas y escalables. Act
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderRosario&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderRosario&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Alexander Rosario" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRosario&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRosario&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados por Alexander" />
 </p>
+
 
 ---
 
