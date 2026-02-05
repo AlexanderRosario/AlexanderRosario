@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Alexander%20Rosario&fontSize=70&animation=fadeIn" />
 
-  <h3>🚀 Software Developer | Android · Backend · Data-Oriented</h3>
+  <h3>🚀 Software Developer · Data Engineer · Android</h3>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Core-Kotlin-blue?style=for-the-badge&logo=kotlin" />
+    <img src="https://img.shields.io/badge/Core-Python_&_Kotlin-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-Data_&_Backend-black?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Architecture-Clean_&_MVVM-green?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Backend-FastAPI_&_Python-black?style=for-the-badge&logo=python" />
     <img src="https://img.shields.io/badge/Location-Dominican_Republic-red?style=for-the-badge" />
   </p>
 </div>
@@ -15,80 +15,86 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Software Developer con enfoque en soluciones reales y escalables**, combinando desarrollo **Android con Kotlin** y **backend en Python**.  
-Me interesa construir sistemas bien estructurados, fáciles de mantener y con una base sólida en **arquitectura limpia, separación de responsabilidades y diseño orientado a dominio**.
+Soy **Software Developer e Ingeniero de Datos** con más de **4 años de experiencia**
+en la recolección, procesamiento y análisis de datos en entornos productivos.
 
-Actualmente trabajo principalmente con:
+He trabajado diseñando **pipelines ETL**, automatizando procesos con **Python y PySpark**,
+y desarrollando **APIs REST** para validación, consulta y análisis de información.
+Complemento este perfil con desarrollo de **aplicaciones Android en Kotlin**,
+aplicando arquitectura limpia y buenas prácticas de diseño.
 
-- 📱 **Android (Jetpack Compose / XML)** bajo **MVVM**
-- 🧠 **Backend con FastAPI**
-- 🗄️ **Bases de datos relacionales** (SQL / Oracle / PostgreSQL)
-- 🤖 **Procesamiento de datos e IA aplicada** (detección de objetos, análisis de información)
+Me enfoco en construir soluciones **mantenibles, escalables y bien estructuradas**,
+priorizando la calidad del código y de los datos.
 
-Mi objetivo no es solo que el código *funcione*, sino que **escale, se entienda y sobreviva al tiempo**.
+---
+
+## 🧠 En qué trabajo actualmente
+
+- Desarrollo de **aplicaciones Android** con Kotlin, Jetpack Compose y arquitectura MVVM
+- Diseño e implementación de **APIs REST** con FastAPI y Flask
+- **Modelado y gestión de bases de datos relacionales** orientadas a reportes
+- **Ingeniería de datos**: ETL, automatización de procesos y control de calidad de datos
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-<table align="center">
-  <tr>
-    <td align="center" width="220"><strong>Mobile</strong></td>
-    <td align="center" width="220"><strong>Backend</strong></td>
-    <td align="center" width="220"><strong>Data & AI</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/XML_Layouts-Android-green?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/MVVM-Clean_Architecture-orange?style=flat-square" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-Design-black?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/SOLID-Principles-red?style=flat-square" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-Advanced-CC2927?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Oracle-DB-F80000?style=flat-square&logo=oracle&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/YOLO-Computer_Vision-00FFFF?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Data_Modeling-Reports-grey?style=flat-square" />
-    </td>
-  </tr>
-</table>
+### Backend & Data
+- **Python** (Pandas, NumPy, PySpark)
+- **FastAPI / Flask**
+- Procesos **ETL**, validación y calidad de datos
+- **SQL Server, PostgreSQL, Oracle**
+- **Azure Synapse, Data Factory, Azure Functions**
+- Análisis de datos y EDA
+
+### Mobile
+- **Kotlin**
+- **Jetpack Compose**
+- **MVVM / Clean Architecture**
+- Firebase
+- Android Studio
+
+### DevOps & Tools
+- Git / Azure DevOps
+- CI/CD
+- Shell Scripting
+- Power BI
 
 ---
 
-## 📊 Actividad en GitHub
+## 📂 Proyectos destacados
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AlexanderRosario&show_icons=true&theme=tokyonight&border_radius=10"
-    width="400"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRosario&layout=compact&theme=tokyonight&border_radius=10&hide=html,css"
-    width="300"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.vercel.app/api?user=AlexanderRosario&theme=tokyonight&border_radius=10"
-  />
-</p>
+### 🛒 Market App – Aplicación de comercio electrónico
+Aplicación Android desarrollada con **Kotlin y Jetpack Compose**.
+Incluye gestión de usuarios, catálogo de productos, búsqueda
+y flujo de compra.  
+El proyecto está estructurado bajo **arquitectura MVVM**,
+priorizando mantenibilidad y escalabilidad.
 
 ---
 
-## 🎯 En qué estoy trabajando
+### ✅ To-Do App – Gestión de tareas
+Aplicación Android disponible en Google Play y con código abierto en GitHub.  
+Permite crear, editar y eliminar tareas, con almacenamiento local
+y sincronización en **Firebase** para una mejor experiencia de usuario.
 
-- 📱 **Aplicaciones Android** con arquitectura limpia y enfoque en mantenibilidad
-- 🌐 **Backends con FastAPI** para análisis, integración y procesamiento de datos
-- 🧠 **Proyectos de IA aplicada** (visión por computadora y análisis de información)
-- 📐 **Fundamentos de optimización**: lógica, Big O y diseño eficiente de algoritmos
-- 🗄️ **Modelado de datos** orientado a reportes y sistemas regulatorios
+---
+
+### ⚙️ Automatización y Calidad de Datos
+Diseño e implementación de **pipelines de limpieza, transformación
+y validación de datos** utilizando Python, Pandas y SQL.  
+Automatización de procesos que redujeron tiempos de ejecución
+y mejoraron significativamente la confiabilidad de los datos.
+
+---
+
+## 🎯 Enfoque profesional
+
+- Arquitectura limpia y separación de responsabilidades
+- Modelos de datos pensados para escalar
+- APIs claras y mantenibles
+- Automatización antes que trabajo manual
+- Código legible, testeable y orientado a largo plazo
 
 ---
 
@@ -98,11 +104,11 @@ Mi objetivo no es solo que el código *funcione*, sino que **escale, se entienda
   <a href="https://linkedin.com/in/TU_LINK_AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:junior0abc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>“El buen software no se nota… hasta que falta.”</i>
+  <i>“El buen software no solo funciona, se mantiene.”</i>
 </p>
