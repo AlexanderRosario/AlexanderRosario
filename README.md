@@ -58,6 +58,15 @@ aplicando arquitectura limpia y buenas prácticas de diseño.
 - Shell Scripting
 - Power BI
 
+<h3>🛠️ Stack principal</h3>
+<div style="overflow-x:auto; white-space:nowrap;">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETL-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-green?style=for-the-badge" />
+</div>
+
 ---
 
 ## 📂 Proyectos destacados
