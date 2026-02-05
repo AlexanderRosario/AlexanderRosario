@@ -22,16 +22,16 @@ automatizando procesos con Python y PySpark, y desarrollando APIs
 para validación, consulta y análisis de información.
 
 Complemento este perfil con desarrollo de aplicaciones Android en Kotlin,
-aplicando arquitectura limpia y buenas prácticas de diseño.
+ en aplicaciones de soporte, gestión y consumo de APIs.
 
 ---
 
 ## 🧠 En qué trabajo actualmente
 
+- **Ingeniería de datos**: ETL, automatización de procesos y control de calidad de datos
 - Desarrollo de **aplicaciones Android** con Kotlin, Jetpack Compose y arquitectura MVVM
 - Diseño e implementación de **APIs REST** con FastAPI y Flask
 - **Modelado y gestión de bases de datos relacionales** orientadas a reportes
-- **Ingeniería de datos**: ETL, automatización de procesos y control de calidad de datos
 
 ---
 
