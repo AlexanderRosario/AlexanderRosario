@@ -35,15 +35,23 @@ Soy un desarrollador enfocado en construir soluciones robustas y escalables. Act
 </p>
 
 
----
+### 📊 Mi Actividad en GitHub
 
-### 💡 Filosofía de Desarrollo
-
-> "No se trata solo de escribir código que funcione, sino de diseñar sistemas que perduren." 
-
-Me apasiona el **procesamiento de datos** y la **visión por computadora**, buscando siempre el equilibrio entre el rendimiento técnico y una experiencia de usuario excepcional. Cuando no estoy programando, me encontrarás explorando mecánicas de videojuegos o analizando cómo optimizar mi gestión del tiempo.
+<p align="center">
+  <img src="https://github-readme-metrics.vercel.app/api/user/AlexanderRosario?template=classic&config.timezone=America/Dominica" alt="Estadísticas de Alexander Rosario" />
+</p>
 
 ---
+### 📊 Estadísticas y Foco Técnico
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRosario&layout=compact&theme=tokyonight)
+
+**Proyectos Actuales:**
+- 📱 Desarrollando **Marketplace App** con Jetpack Compose y Hilt.
+- 📐 Estudiando **Matemáticas Discretas** (Big O, Lógica) para optimización de software.
+- 🌐 Especializándome en **Kotlin Multiplatform (KMP)**.
+- ---
+
 
 ### 📫 Conectemos
 
