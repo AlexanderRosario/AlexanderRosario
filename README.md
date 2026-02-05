@@ -98,7 +98,7 @@ Automatización de procesos que redujeron tiempos de ejecución.
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-rosario-manzueta-39735b171/">
+  <a href="[https://www.linkedin.com/in/alexander-rosario-manzueta-39735b171/](https://www.linkedin.com/in/alexander-rosario-manzueta-39735b171/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:junior0abc@gmail.com">
