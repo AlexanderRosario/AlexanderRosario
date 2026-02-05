@@ -29,12 +29,14 @@ Soy un desarrollador enfocado en construir soluciones robustas y escalables. Act
 ### 📊 Estadísticas de GitHub
 
 ### 📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexanderRosario&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
-  <br>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRosario&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
 </p>
+
 ---
 
 ### 💡 Filosofía de Desarrollo
