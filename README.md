@@ -64,12 +64,20 @@ Mi objetivo no es solo que el código *funcione*, sino que **escale, se entienda
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderRosario&show_icons=true&theme=tokyonight&border_radius=10" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRosario&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" width="300" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AlexanderRosario&show_icons=true&theme=tokyonight&border_radius=10"
+    width="400"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderRosario&layout=compact&theme=tokyonight&border_radius=10&hide=html,css"
+    width="300"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderRosario&theme=tokyonight&border_radius=10" />
+  <img
+    src="https://github-readme-streak-stats.vercel.app/api?user=AlexanderRosario&theme=tokyonight&border_radius=10"
+  />
 </p>
 
 ---
