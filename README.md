@@ -15,16 +15,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Software Developer e Ingeniero de Datos** con más de **4 años de experiencia**
-en la recolección, procesamiento y análisis de datos en entornos productivos.
+Software Developer e Ingeniero de Datos con más de 4 años de experiencia
+en la recolección, procesamiento y análisis de datos.  
+He trabajado en entornos productivos diseñando pipelines ETL,
+automatizando procesos con Python y PySpark, y desarrollando APIs
+para validación, consulta y análisis de información.
 
-He trabajado diseñando **pipelines ETL**, automatizando procesos con **Python y PySpark**,
-y desarrollando **APIs REST** para validación, consulta y análisis de información.
-Complemento este perfil con desarrollo de **aplicaciones Android en Kotlin**,
+Complemento este perfil con desarrollo de aplicaciones Android en Kotlin,
 aplicando arquitectura limpia y buenas prácticas de diseño.
-
-Me enfoco en construir soluciones **mantenibles, escalables y bien estructuradas**,
-priorizando la calidad del código y de los datos.
 
 ---
 
@@ -68,8 +66,7 @@ priorizando la calidad del código y de los datos.
 Aplicación Android desarrollada con **Kotlin y Jetpack Compose**.
 Incluye gestión de usuarios, catálogo de productos, búsqueda
 y flujo de compra.  
-El proyecto está estructurado bajo **arquitectura MVVM**,
-priorizando mantenibilidad y escalabilidad.
+El proyecto está estructurado bajo **arquitectura MVVM**.
 
 ---
 
@@ -83,10 +80,10 @@ y sincronización en **Firebase** para una mejor experiencia de usuario.
 ### ⚙️ Automatización y Calidad de Datos
 Diseño e implementación de **pipelines de limpieza, transformación
 y validación de datos** utilizando Python, Pandas y SQL.  
-Automatización de procesos que redujeron tiempos de ejecución
-y mejoraron significativamente la confiabilidad de los datos.
+Automatización de procesos que redujeron tiempos de ejecución.
 
 ---
+
 
 ## 🎯 Enfoque profesional
 
@@ -101,7 +98,7 @@ y mejoraron significativamente la confiabilidad de los datos.
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINK_AQUI">
+  <a href="https://www.linkedin.com/in/alexander-rosario-manzueta-39735b171/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:junior0abc@gmail.com">
