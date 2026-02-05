@@ -58,13 +58,41 @@ aplicando arquitectura limpia y buenas prácticas de diseño.
 - Shell Scripting
 - Power BI
 
-<h3>🛠️ Stack principal</h3>
-<div style="overflow-x:auto; white-space:nowrap;">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ETL-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Android-green?style=for-the-badge" />
+<div style="overflow-x:auto; white-space:nowrap; width:100%;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/><br/>Python
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="Kotlin"/><br/>Kotlin
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="Android"/><br/>Android
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="FastAPI"/><br/>FastAPI
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"/><br/>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle"/><br/>Oracle
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="PySpark"/><br/>PySpark
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="48" alt="Azure"/><br/>Azure
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/><br/>Git
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux"/><br/>Linux
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
