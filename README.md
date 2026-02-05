@@ -151,11 +151,9 @@ Automatización de procesos que redujeron tiempos de ejecución.
 
 ## 🎯 Enfoque profesional
 
-- Arquitectura limpia y separación de responsabilidades
-- Modelos de datos pensados para escalar
-- APIs claras y mantenibles
-- Automatización antes que trabajo manual
-- Código legible, testeable y orientado a largo plazo
+Actualmente me enfoco en ingeniería de datos, backend y desarrollo android,
+construyendo pipelines ETL, APIs REST y modelos de datos
+que sirvan como base para análisis, reportes y aplicaciones.
 
 ---
 
