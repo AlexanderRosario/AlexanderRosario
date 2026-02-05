@@ -35,96 +35,44 @@ Complemento este perfil con desarrollo de aplicaciones Android en Kotlin,
 
 ---
 
-<table> <tr> <th align="center">Backend & Data</th> <th align="center">Mobile</th> <th align="center">DevOps & Tools</th> </tr> <tr> <td valign="top">
+<table> <tr> <th align="left">Backend & Data</th> <th align="left">Mobile</th> <th align="left">DevOps & Tools</th> </tr> <tr> <td valign="top">
 
-Python
+Python (Pandas, NumPy, PySpark)
 
-Pandas, NumPy
+FastAPI / Flask
 
-PySpark
+Procesos ETL, validación y calidad de datos
 
-APIs
+SQL Server, PostgreSQL, Oracle
 
-FastAPI
+Azure Synapse, Data Factory, Azure Functions
 
-Flask
-
-Data Engineering
-
-ETL pipelines
-
-Validación y calidad de datos
-
-Bases de datos
-
-SQL Server
-
-PostgreSQL
-
-Oracle
-
-Azure
-
-Synapse
-
-Data Factory
-
-Azure Functions
-
-Análisis de datos
-
-EDA
+Análisis de datos y EDA
 
 </td> <td valign="top">
 
 Kotlin
 
-Android
-
 Jetpack Compose
 
-XML Layouts
-
-Arquitectura
-
-MVVM
-
-Clean Architecture
-
-Servicios
+MVVM / Clean Architecture
 
 Firebase
-
-Herramientas
 
 Android Studio
 
 </td> <td valign="top">
 
-Control de versiones
-
-Git
-
-Azure DevOps
+Git / Azure DevOps
 
 CI/CD
 
-Pipelines
-
-Scripting
-
-Shell / Bash
-
-Visualización
+Shell Scripting
 
 Power BI
 
-Sistemas
-
-Linux
-
-</td>
-
+</td> </tr>
+</table>
 <div style="overflow-x:auto; white-space:nowrap; width:100%;">
   <table>
     <tr>
